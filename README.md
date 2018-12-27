@@ -28,3 +28,8 @@ start the jupyter notebook (make sure you switch to the correct kernell) <br>
 
 deactive the virtual environment <br>
 `conda deactivate`
+
+### useful commands
+
+exit the notebook server <br>
+`ctrl + c`
